@@ -11,4 +11,3 @@
 In this workshop, we will see the power of Genesys Cloud CX and Google CCAI. We will set up both integrations with Google Agent Assist and Google DialogFlow CX into your own Genesys Cloud CX instance. 
 
 This will be a follow along type workshop. 
-
