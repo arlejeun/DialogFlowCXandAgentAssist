@@ -8,7 +8,7 @@ weight: 1
 
 ### Welcome
 
-In this workshop, you will learn all about the Genesys and Google Cloud partnership. Specifically, we will focus on how Genesys Cloud CX and Google Cloud CCAI can become a dynamic duo! By the end of this workshop, you'll have a Dialogflow CX bot and an Agent Assist Conversation profile integrated in Genesys Cloud CX. 
+In this workshop, you will learn all about the Genesys and Google Cloud partnership. Specifically, we will focus on how Genesys Cloud CX and Google Cloud CCAI can become a dynamic duo! By the end of this workshop, you'll have a Dialogflow CX bot and an Agent Assist Conversation profile integrated in Genesys Cloud CX.
 
 ### Learning Objectives
 - Set up Dialogflow CX integration
